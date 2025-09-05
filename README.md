@@ -1,5 +1,5 @@
 # 2024Environmental_Data_Utilization_and_Analysis_Contest
-2024년도 환경데이터 활용 및 분석 공모전
+2024년 환경데이터 활용 및 분석 공모전
 -------------
 ``` 기간 ``` 2024년 4월 22일 ~ 2024년 6월 3일 <br />
 <br />
